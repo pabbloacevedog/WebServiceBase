@@ -1,0 +1,98 @@
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\ApplicationInsights.config
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\csc.exe
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\vbc.exe
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.dll.config
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.pdb
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Web.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Web.xml
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\obj\Debug\SAP_actualiza_homologacion.csprojResolveAssemblyReference.cache
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\obj\Debug\SAP_actualiza_homologacion.dll
+C:\Users\record-man\Desktop\20170303\SAP_GIT\sap_actualiza_homologacion\SAP_actualiza_homologacion\obj\Debug\SAP_actualiza_homologacion.pdb
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\ApplicationInsights.config
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\csc.exe
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\vbc.exe
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.dll.config
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.pdb
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Web.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Web.xml
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\obj\Debug\SAP_actualiza_homologacion.csprojResolveAssemblyReference.cache
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\obj\Debug\SAP_actualiza_homologacion.dll
+C:\Users\clago\Desktop\CMPC\Aplicaicones\Integrador SAP\Lunes - 27-07-2017\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\obj\Debug\SAP_actualiza_homologacion.pdb
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\ApplicationInsights.config
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\csc.exe
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\vbc.exe
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\VBCSCompiler.exe
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.dll.config
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\SAP_actualiza_homologacion.pdb
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Web.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.ApplicationInsights.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.Web.xml
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.ApplicationInsights.xml
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\obj\Debug\SAP_actualiza_homologacion.dll
+C:\Servicios\sap_actualiza_homologacion\Sap_actualiza_homologacion\SAP_actualiza_homologacion\obj\Debug\SAP_actualiza_homologacion.pdb
